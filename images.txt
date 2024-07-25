@@ -1,1 +1,1 @@
-maxkeytop/maxkey:latest
+maxkeytop/maxkey-mgt:latest
