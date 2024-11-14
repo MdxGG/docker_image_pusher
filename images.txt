@@ -1,1 +1,1 @@
-maxkeytop/maxkey-mgt-frontend:latest
+dockurr/macos:latest
